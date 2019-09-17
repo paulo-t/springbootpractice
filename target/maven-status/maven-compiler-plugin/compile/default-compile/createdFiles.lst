@@ -1,0 +1,15 @@
+com\paulo\service\EmailService.class
+com\paulo\mapper\UserMapper.class
+com\paulo\service\impl\UserServiceImpl.class
+com\paulo\App.class
+com\paulo\controller\ConfigController.class
+com\paulo\controller\HomeController.class
+com\paulo\aop\WabLogAspect.class
+com\paulo\service\impl\TextServiceImpl.class
+com\paulo\handler\GlobalExceptionHandler.class
+com\paulo\service\TextService.class
+com\paulo\service\UserService.class
+com\paulo\service\impl\EmailServiceImpl.class
+com\paulo\controller\UserController.class
+com\paulo\config\UserConfig.class
+com\paulo\dataobject\User.class
