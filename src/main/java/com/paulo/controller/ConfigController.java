@@ -10,6 +10,7 @@ public class ConfigController {
     @Autowired
     private UserConfig userConfig;
 
+    
     @GetMapping("/getConfig")
     public UserConfig config(){
         return userConfig;
