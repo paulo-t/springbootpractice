@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class ConfigController {
     @Autowired
     private UserConfig userConfig;
-    
+
     @GetMapping("/getConfig")
     public UserConfig config(){
         return userConfig;
